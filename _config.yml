@@ -1,7 +1,7 @@
 name: mangocat
 favicon: null
-layout_spectrum: 0.6555755734443665
-typography_spectrum: 0.024847968947142363
+layout_spectrum: 0.52205
+typography_spectrum: 0.47424
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#b5282d'
+    - '#181339'
+    - '#436a3d'
+    - '#ef7045'
   brandStrength: 0.06915525021031499
   lightness: 0.8323976348619908
   saturation: 0.14524038275703788

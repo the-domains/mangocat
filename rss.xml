@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mangocat]]></title>
         <description><![CDATA[mangocat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mangocat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 15:54:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 16:01:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mangocat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/692c5b37-c032-4931-9fd9-6d804550c88c.png">]]></description>
+            <link>https://thegrid.ai/mangocat/fighting-words-lettering/index.html</link>
+            <guid isPermaLink="false">64b4be53-acdf-4a48-997e-a7787d244f4e</guid>
+            <pubDate>Fri, 15 Apr 2016 16:01:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The empty page</p>]]></description>
-            <link>undefinedthe-empty-page/index.html</link>
+            <link>https://thegrid.ai/mangocat/the-empty-page/index.html</link>
             <guid isPermaLink="false">952bbc44-cca6-4e19-bf38-fb3c934938be</guid>
             <pubDate>Fri, 15 Apr 2016 15:53:57 GMT</pubDate>
         </item>

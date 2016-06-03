@@ -1,6 +1,6 @@
 name: mangocat
 favicon: null
-layout_spectrum: 0.52205
+layout_spectrum: 0.43285
 typography_spectrum: 0.47424
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#ef7045'
   brandStrength: 0.06915525021031499
   lightness: 0.8323976348619908
-  saturation: 0.14524038275703788
-  rhythmicContrast: 0.7827777478378266
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
